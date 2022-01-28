@@ -1,2 +1,0 @@
-# star-api
-Star Api 
